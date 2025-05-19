@@ -23,6 +23,16 @@ Production
 
    To be released ...
 
+2021.2.8
++++++++++++++
+
+Released 2025-05-19
+
+Fixes
+------------------
+
+* (Again) Don't warn when truncation affects comparison of file epoch and scan epoch.
+
 2021.2.7
 +++++++++++++
 
